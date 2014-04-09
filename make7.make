@@ -174,7 +174,9 @@ projects[xmlsitemap][subdir] = "contrib"
 projects[porterstemmer][version] = 1.0
 projects[porterstemmer][type] = "module"
 projects[porterstemmer][subdir] = "contrib"
-
+projects[ctools][version] = 1.4
+projects[ctools][type] = "module"
+projects[ctools][subdir] = "contrib"
   
 
 ; Themes
