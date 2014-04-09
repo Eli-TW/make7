@@ -177,7 +177,7 @@ projects[porterstemmer][subdir] = "contrib"
 projects[ctools][version] = 1.4
 projects[ctools][type] = "module"
 projects[ctools][subdir] = "contrib"
-  
+
 
 ; Themes
 ; --------
@@ -190,3 +190,8 @@ projects[] = omega
 ; No libraries were included
 
 
+; Features
+projects[sis_course][type] = "module"
+projects[sis_course][subdir] = "features"
+projects[sis_course][download][type] = git
+projects[sis_course][download][url] = file:///Users/eli/code/sis/features/sis_course
