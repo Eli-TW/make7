@@ -1,5 +1,5 @@
 ; ----------------
-; Generated makefile from http://drushmake.me
+; Generated makefile from http://drushmake.me and subsequently fettled
 ; Permanent URL: http://drushmake.me/file.php?token=02df603af03d
 ; ----------------
 ;
@@ -29,8 +29,6 @@ api = 2
 ; Drupal 7.x. Requires the `core` property to be set to 7.x.
 projects[drupal][version] = 7.x
 
-  
-  
 ; Modules
 ; --------
 projects[admin_menu][version] = 3.0-rc4
@@ -178,20 +176,27 @@ projects[ctools][version] = 1.4
 projects[ctools][type] = "module"
 projects[ctools][subdir] = "contrib"
 
-
 ; Themes
 ; --------
 projects[] = omega
-
-  
+projects[] = bootstrap
   
 ; Libraries
 ; ---------
-; No libraries were included
-
+projects[ckeditor_lib][type] = library
+projects[ckeditor_lib][directory_name] = ckeditor
+projects[ckeditor_lib][download][type] = git
+projects[ckeditor_lib][download][url] = https://github.com/ckeditor/ckeditor-releases.git
+projects[ckeditor_lib][download][branch] = "full/stable"
 
 ; Features
 projects[sis_course][type] = "module"
 projects[sis_course][subdir] = "features"
 projects[sis_course][download][type] = git
 projects[sis_course][download][url] = file:///Users/eli/code/sis/features/sis_course
+
+projects[sis_menu][type] = "module"
+projects[sis_menu][subdir] = "features"
+projects[sis_menu][download][type] = git
+projects[sis_menu][download][url] = file:///Users/eli/code/sis/features/sis_menu
+
