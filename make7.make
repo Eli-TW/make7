@@ -199,27 +199,7 @@ projects[ckeditor_lib][download][url] = https://github.com/ckeditor/ckeditor-rel
 projects[ckeditor_lib][download][branch] = "full/stable"
 
 ; Features
-projects[sis_course][type] = "module"
-projects[sis_course][subdir] = "features"
-projects[sis_course][download][type] = git
-projects[sis_course][download][url] = file:///Users/eli/code/sis/features
-
-projects[sis_menu][type] = "module"
-projects[sis_menu][subdir] = "features"
-projects[sis_menu][download][type] = git
-projects[sis_menu][download][url] = file:///Users/eli/code/sis/features
-
-projects[sis_staff_profile][type] = "module"
-projects[sis_staff_profile][subdir] = "features"
-projects[sis_staff_profile][download][type] = git
-projects[sis_staff_profile][download][url] = file:///Users/eli/code/sis/features
-
-projects[sis_staff_profile_list][type] = "module"
-projects[sis_staff_profile_list][subdir] = "features"
-projects[sis_staff_profile_list][download][type] = git
-projects[sis_staff_profile_list][download][url] = file:///Users/eli/code/sis/features
-
-projects[sis_blocks][type] = "module"
-projects[sis_blocks][subdir] = "features"
-projects[sis_blocks][download][type] = git
-projects[sis_blocks][download][url] = file:///Users/eli/code/sis/features
+projects[sis][type] = "module"
+projects[sis][subdir] = "features"
+projects[sis][download][type] = git
+projects[sis][download][url] = file:///Users/eli/code/sis/features
