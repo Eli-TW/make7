@@ -193,10 +193,14 @@ projects[ckeditor_lib][download][branch] = "full/stable"
 projects[sis_course][type] = "module"
 projects[sis_course][subdir] = "features"
 projects[sis_course][download][type] = git
-projects[sis_course][download][url] = file:///Users/eli/code/sis/features/sis_course
+projects[sis_course][download][url] = file:///Users/eli/code/sis/features
 
 projects[sis_menu][type] = "module"
 projects[sis_menu][subdir] = "features"
 projects[sis_menu][download][type] = git
-projects[sis_menu][download][url] = file:///Users/eli/code/sis/features/sis_menu
+projects[sis_menu][download][url] = file:///Users/eli/code/sis/features
 
+projects[sis_staff_profile][type] = "module"
+projects[sis_staff_profile][subdir] = "features"
+projects[sis_staff_profile][download][type] = git
+projects[sis_staff_profile][download][url] = file:///Users/eli/code/sis/features
