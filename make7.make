@@ -215,3 +215,8 @@ projects[sis_staff_profile_list][type] = "module"
 projects[sis_staff_profile_list][subdir] = "features"
 projects[sis_staff_profile_list][download][type] = git
 projects[sis_staff_profile_list][download][url] = file:///Users/eli/code/sis/features
+
+projects[sis_blocks][type] = "module"
+projects[sis_blocks][subdir] = "features"
+projects[sis_blocks][download][type] = git
+projects[sis_blocks][download][url] = file:///Users/eli/code/sis/features
