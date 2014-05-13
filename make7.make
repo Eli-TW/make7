@@ -214,7 +214,16 @@ projects[ckeditor_lib][download][url] = https://github.com/ckeditor/ckeditor-rel
 projects[ckeditor_lib][download][branch] = "full/stable"
 
 ; Features
+; ---------
 projects[sis][type] = "module"
 projects[sis][subdir] = "features"
 projects[sis][download][type] = git
 projects[sis][download][url] = file:///Users/eli/code/sis/features
+
+; Custom Modules
+; ---------
+projects[sis][type] = "module"
+projects[sis][subdir] = "custom"
+projects[sis][download][type] = git
+projects[sis][download][url] = file:///Users/eli/code/sis/custom
+
