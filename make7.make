@@ -277,7 +277,6 @@ projects[ckeditor_lib][download][branch] = "full/stable"
 ; ---------
 projects[sis_features][type] = "module"
 projects[sis_features][directory_name] = "features"
-; projects[sis_features][subdir] = "features"
 projects[sis_features][download][type] = git
 projects[sis_features][download][url] = file:///Users/eli/code/sis/features
 
@@ -285,6 +284,5 @@ projects[sis_features][download][url] = file:///Users/eli/code/sis/features
 ; ---------
 projects[sis_modules][type] = "module"
 projects[sis_modules][directory_name] = "custom"
-; projects[sis_modules][subdir] = "custom"
 projects[sis_modules][download][type] = git
 projects[sis_modules][download][url] = file:///Users/eli/code/sis/custom
