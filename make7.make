@@ -147,6 +147,10 @@ projects[insert][version] = 1.3
 projects[insert][type] = "module"
 projects[insert][subdir] = "contrib"
 
+projects[jquery_update][version] = 2.4
+projects[jquery_update][type] = "module"
+projects[jquery_update][subdir] = "contrib"
+
 projects[link][version] = 1.2
 projects[link][type] = "module"
 projects[link][subdir] = "contrib"
@@ -226,6 +230,10 @@ projects[stringoverrides][subdir] = "contrib"
 projects[strongarm][version] = 2.0
 projects[strongarm][type] = "module"
 projects[strongarm][subdir] = "contrib"
+
+projects[taxonomy_menu][version] = 1.5
+projects[taxonomy_menu][type] = "module"
+projects[taxonomy_menu][subdir] = "contrib"
 
 projects[token][version] = 1.5
 projects[token][type] = "module"
