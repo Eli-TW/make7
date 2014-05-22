@@ -247,7 +247,7 @@ projects[uuid_features][version] = 1.0-alpha4
 projects[uuid_features][type] = "module"
 projects[uuid_features][subdir] = "contrib"
 
-projects[views][version] = 3.7
+projects[views][version] = 3.8
 projects[views][type] = "module"
 projects[views][subdir] = "contrib"
 
