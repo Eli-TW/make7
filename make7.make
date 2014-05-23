@@ -271,7 +271,6 @@ projects[xmlsitemap][subdir] = "contrib"
 ; --------
 projects[] = omega
 projects[] = bootstrap
-projects[] = acquia_marina
 
 ; Libraries
 ; ---------
