@@ -171,6 +171,10 @@ projects[menu_block][version] = 2.3
 projects[menu_block][type] = "module"
 projects[menu_block][subdir] = "contrib"
 
+projects[menu_import][version] = 1.3
+projects[menu_import][type] = "module"
+projects[menu_import][subdir] = "contrib"
+
 projects[module_filter][version] = 2.0-alpha2
 projects[module_filter][type] = "module"
 projects[module_filter][subdir] = "contrib"
@@ -186,6 +190,10 @@ projects[nodequeue][subdir] = "contrib"
 projects[node_clone][version] = 1.0-rc2
 projects[node_clone][type] = "module"
 projects[node_clone][subdir] = "contrib"
+
+projects[node_export][version] = 3.0
+projects[node_export][type] = "module"
+projects[node_export][subdir] = "contrib"
 
 projects[page_title][version] = 2.7
 projects[page_title][type] = "module"
