@@ -135,6 +135,10 @@ projects[gmap][version] = 2.9
 projects[gmap][type] = "module"
 projects[gmap][subdir] = "contrib"
 
+projects[google_analytics][version] = 2.0
+projects[google_analytics][type] = "module"
+projects[google_analytics][subdir] = "contrib"
+
 projects[imce][version] = 1.9
 projects[imce][type] = "module"
 projects[imce][subdir] = "contrib"
@@ -194,6 +198,10 @@ projects[pathauto][subdir] = "contrib"
 projects[porterstemmer][version] = 1.0
 projects[porterstemmer][type] = "module"
 projects[porterstemmer][subdir] = "contrib"
+
+projects[profile2][version] = 1.3
+projects[profile2][type] = "module"
+projects[profile2][subdir] = "contrib"
 
 projects[quicktabs][version] = 3.6
 projects[quicktabs][type] = "module"
