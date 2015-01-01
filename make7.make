@@ -43,7 +43,7 @@ projects[addressfield][version] = 1.0-beta5
 projects[addressfield][type] = "module"
 projects[addressfield][subdir] = "contrib"
 
-projects[addressfield_tokens][version] = 1.4
+projects[addressfield_tokens][version] = 1.5
 projects[addressfield_tokens][type] = "module"
 projects[addressfield_tokens][subdir] = "contrib"
 
@@ -63,7 +63,7 @@ projects[calendar][version] = 3.4
 projects[calendar][type] = "module"
 projects[calendar][subdir] = "contrib"
 
-projects[ckeditor][version] = 1.14
+projects[ckeditor][version] = 1.16
 projects[ckeditor][type] = "module"
 projects[ckeditor][subdir] = "contrib"
 
@@ -159,7 +159,7 @@ projects[link][version] = 1.2
 projects[link][type] = "module"
 projects[link][subdir] = "contrib"
 
-projects[logintoboggan][version] = 1.3
+projects[logintoboggan][version] = 1.4
 projects[logintoboggan][type] = "module"
 projects[logintoboggan][subdir] = "contrib"
 
