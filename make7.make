@@ -171,7 +171,7 @@ projects[menu_block][version] = 2.3
 projects[menu_block][type] = "module"
 projects[menu_block][subdir] = "contrib"
 
-projects[menu_import][version] = 1.3
+projects[menu_import][version] = 1.6
 projects[menu_import][type] = "module"
 projects[menu_import][subdir] = "contrib"
 
