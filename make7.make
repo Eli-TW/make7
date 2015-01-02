@@ -247,6 +247,10 @@ projects[strongarm][version] = 2.0
 projects[strongarm][type] = "module"
 projects[strongarm][subdir] = "contrib"
 
+projects[styleguide][version] = 1.1
+projects[styleguide][type] = "module"
+projects[styleguide][subdir] = "contrib"
+
 projects[taxonomy_menu][version] = 1.5
 projects[taxonomy_menu][type] = "module"
 projects[taxonomy_menu][subdir] = "contrib"
