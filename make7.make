@@ -199,6 +199,14 @@ projects[page_title][version] = 2.7
 projects[page_title][type] = "module"
 projects[page_title][subdir] = "contrib"
 
+projects[panels][version] = 3.4
+projects[panels][type] = "module"
+projects[panels][subdir] = "contrib"
+
+projects[panelizer][version] = 3.1
+projects[panelizer][type] = "module"
+projects[panelizer][subdir] = "contrib"
+
 projects[pathauto][version] = 1.2
 projects[pathauto][type] = "module"
 projects[pathauto][subdir] = "contrib"
